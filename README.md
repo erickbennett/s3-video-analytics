@@ -2,7 +2,8 @@
 
 ## Purpose
 AWS S3 bucket logging creates text files that are stored in another S3 bucket.
-This application will read all log files and generate a dynamic Shiny App.
+
+This application will read all log files and generate a dynamic Shiny App that allows the user to check and uncheck multiple criteria.
 
 The S3 log bucket being analyzed is generated from visits to a video webapp.
 
