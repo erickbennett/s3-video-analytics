@@ -3,7 +3,7 @@
 ##      2. file names of videos
 ##      3. a list that groups them together
 ##
-####  Update this file to drive the LogGeneration.R applicaiton
+####  Update this file to drive the LogGeneration.R application
 
 
 group1 <- c("video.mp4", "video.mp4", "video.mp4")
